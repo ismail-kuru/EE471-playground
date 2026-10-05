@@ -1,5 +1,5 @@
 
-#Senior Dev: Ismail Kuru
+#Junior Dev: Ismail Kuru
 ## This script is written by Ismail Kuru
 #pull request 
 #Programming for the Puzzled -- Srini Devadas
