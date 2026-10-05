@@ -1,5 +1,5 @@
 
-#Senior Dev: Ismail Kuru
+#Senior Dev: Ismail KURU
 ## This script is written by Ismail Kuru
 #pull request 
 #Programming for the Puzzled -- Srini Devadas
@@ -64,4 +64,6 @@ def pleaseConformOnepass(caps):
 
 pleaseConform(caps)
 pleaseConformOnepass(cap2)
+
+# Dummy statements 
 
